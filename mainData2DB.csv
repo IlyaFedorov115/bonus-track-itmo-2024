@@ -1,0 +1,55 @@
+name,min_life_expectancy,max_life_expectancy,min_weight,max_weight,family_friendly,shedding,general_health,playfulness,children_friendly,grooming,intelligence,other_pets_friendly,img_link,hypoallergenic,origin,length_from,length_to
+Abyssinian,9.0,15.0,6.0,10.0,3,3,2,5,5,3,5,5,https://dogell.b-cdn.net/uploads/breed/thumb_abyssinian.png,False,Ethiopia,12,16
+Aegean,9.0,10.0,7.0,10.0,5,3,4,4,5,4,4,3,https://dogell.b-cdn.net/uploads/breed/thumb_aegean.png,False,Greece,14,15
+American Bobtail,11.0,15.0,8.0,13.0,4,4,4,4,4,3,4,4,https://dogell.b-cdn.net/uploads/breed/thumb_american-bobtail.png,False,United States,15,16
+American Shorthair,15.0,20.0,7.0,12.0,3,3,4,2,4,4,4,3,https://dogell.b-cdn.net/uploads/breed/thumb_american-shorthair.png,False,United States,12,15
+American Wirehair,14.0,18.0,8.0,15.0,4,3,5,3,4,5,4,3,https://dogell.b-cdn.net/uploads/breed/thumb_american-wirehair.png,False,United States,18,23
+Arabian Mau,12.0,14.0,8.0,16.0,4,2,4,4,4,5,4,3,https://dogell.b-cdn.net/uploads/breed/thumb_arabian-mau.png,False,Iran,14,17
+Asian,15.0,15.0,10.0,10.0,5,1,4,4,5,3,4,4,https://dogell.b-cdn.net/uploads/breed/thumb_asian.png,False,United Kingdom,15,18
+Australian Mist,15.0,18.0,8.0,15.0,5,2,4,4,4,4,4,3,https://dogell.b-cdn.net/uploads/breed/thumb_australian-mist.png,False,Australia,14,15
+Bambino,9.0,15.0,4.0,9.0,4,1,3,4,4,2,3,3,https://dogell.b-cdn.net/uploads/breed/thumb_bambino.png,False,United States,10,13
+Bengal Cats,10.0,16.0,8.0,17.0,5,2,3,5,5,4,5,5,https://dogell.b-cdn.net/uploads/breed/thumb_bengal.png,True,United States,17,22
+Birman,12.0,16.0,6.0,12.0,5,3,2,4,5,2,4,5,https://dogell.b-cdn.net/uploads/breed/thumb_birman.png,False,France,15,18
+Bombay,12.0,20.0,8.0,15.0,4,2,4,4,4,4,4,4,https://dogell.b-cdn.net/uploads/breed/thumb_bombay.png,False,United States,13,20
+Brazilian Shorthair,14.0,20.0,10.0,22.0,4,1,3,4,5,4,4,4,https://dogell.b-cdn.net/uploads/breed/thumb_brazilian-shorthair.png,False,Brazil,15,21
+British Longhair,15.0,17.0,9.0,18.0,4,4,3,3,4,2,4,3,https://dogell.b-cdn.net/uploads/breed/thumb_british-longhair.png,False,United Kingdom,14,26
+British Shorthair,12.0,17.0,7.0,17.0,3,3,4,2,4,4,3,5,https://dogell.b-cdn.net/uploads/breed/thumb_british-shorthair.png,False,United Kingdom,22,25
+Burmese,10.0,16.0,8.0,12.0,5,2,2,4,5,5,5,4,https://dogell.b-cdn.net/uploads/breed/thumb_burmese.png,True,Thailand,15,18
+Burmilla,10.0,15.0,6.5,13.0,4,3,3,5,4,4,3,4,https://dogell.b-cdn.net/uploads/breed/thumb_burmilla.png,False,United Kingdom,14,17
+California Spangled,9.0,16.0,8.0,15.0,4,2,4,4,4,5,4,3,https://dogell.b-cdn.net/uploads/breed/thumb_california-spangled.png,True,United States,17,22
+Chantilly-Tiffany,7.0,16.0,6.0,12.0,4,3,4,4,4,2,4,3,https://dogell.b-cdn.net/uploads/breed/thumb_chantilly-tiffany.png,False,United States,14,16
+Chausie,12.0,14.0,15.0,30.0,4,1,4,4,1,5,5,4,https://dogell.b-cdn.net/uploads/breed/thumb_chausie.png,False,Egypt,22,23
+Colorpoint Shorthair,12.0,17.0,5.0,10.0,5,2,2,5,4,4,4,4,https://dogell.b-cdn.net/uploads/breed/thumb_colorpoint-shorthair.png,True,United States,13,17
+Cornish Rex,11.0,15.0,6.0,10.0,5,2,3,5,5,5,4,5,https://dogell.b-cdn.net/uploads/breed/thumb_cornish-rex.png,True,United Kingdom,10,11
+Cyprus,12.0,15.0,8.0,16.0,4,2,4,5,4,4,4,4,https://dogell.b-cdn.net/uploads/breed/thumb_cyprus.png,False,Cyprus,14,17
+Devon Rex,9.0,15.0,5.0,10.0,5,1,1,4,5,5,4,4,https://dogell.b-cdn.net/uploads/breed/thumb_devon-rex.png,True,United Kingdom,15,18
+Donskoy,12.0,15.0,6.0,15.0,4,1,3,4,4,2,4,4,https://dogell.b-cdn.net/uploads/breed/thumb_donskoy.png,True,Russia,14,16
+Japanese Bobtail,9.0,15.0,6.0,10.0,5,3,4,5,5,4,4,5,https://dogell.b-cdn.net/uploads/breed/thumb_japanese-bobtail.png,False,Japan,15,16
+Javanese,10.0,15.0,5.0,10.0,5,3,2,4,4,4,4,4,https://dogell.b-cdn.net/uploads/breed/thumb_javanese.png,True,United States,12,14
+Khao Manee,10.0,12.0,8.0,10.0,4,1,3,5,5,4,4,4,https://dogell.b-cdn.net/uploads/breed/thumb_khao-manee.png,False,Thailand,10,12
+Lykoi,12.0,15.0,4.0,7.0,4,4,3,4,4,2,5,3,https://dogell.b-cdn.net/uploads/breed/thumb_lykoi.png,False,United States,11,16
+Maine Coon,9.0,15.0,9.0,18.0,3,4,3,4,5,4,4,5,https://dogell.b-cdn.net/uploads/breed/thumb_maine-coon.png,False,United States,30,40
+Manx,8.0,14.0,8.0,12.0,4,3,3,3,2,3,4,2,https://dogell.b-cdn.net/uploads/breed/thumb_manx.png,False,United Kingdom,14,16
+Nebelung,11.0,18.0,7.0,15.0,4,4,4,4,2,2,4,3,https://dogell.b-cdn.net/uploads/breed/thumb_nebelung.png,False,United States,16,26
+Oriental Bicolor,8.0,12.0,8.0,12.0,4,1,3,4,5,4,4,3,https://dogell.b-cdn.net/uploads/breed/thumb_oriental.png,True,United States,15,18
+Persian,10.0,15.0,7.0,12.0,3,5,2,2,2,2,3,2,https://dogell.b-cdn.net/uploads/breed/thumb_persian.png,False,Iran,14,18
+Peterbald,12.0,15.0,6.0,10.0,5,1,3,4,4,2,3,4,https://dogell.b-cdn.net/uploads/breed/thumb_peterbald.png,False,Russia,15,18
+Pixie-Bob,13.0,15.0,8.0,17.0,5,4,5,4,5,2,4,4,https://dogell.b-cdn.net/uploads/breed/thumb_pixie-bob.png,False,United States,20,24
+Ragdoll Cats,12.0,17.0,10.0,20.0,5,4,3,4,5,1,4,4,https://dogell.b-cdn.net/uploads/breed/thumb_ragdoll.png,False,United States,17,21
+Russian Blue,10.0,15.0,7.0,15.0,4,4,4,2,3,2,4,4,https://dogell.b-cdn.net/uploads/breed/thumb_russian-blue.png,True,Russia,15,18
+Savannah,17.0,20.0,8.0,20.0,4,3,5,5,4,4,5,5,https://dogell.b-cdn.net/uploads/breed/thumb_savannah.png,False,United States,13,20
+Scottish Fold,11.0,14.0,6.0,13.0,5,3,3,3,5,2,4,4,https://dogell.b-cdn.net/uploads/breed/thumb_scottish-fold.png,False,United Kingdom,10,12
+Serengeti,10.0,15.0,8.0,15.0,4,1,3,4,4,4,4,4,https://dogell.b-cdn.net/uploads/breed/thumb_serengeti.png,False,United States,15,18
+Siamese Cat,8.0,15.0,6.0,14.0,5,2,3,4,4,4,5,4,https://dogell.b-cdn.net/uploads/breed/thumb_siamese.png,True,Thailand,15,20
+Siberian,11.0,18.0,8.0,17.0,5,4,4,5,5,2,4,4,https://dogell.b-cdn.net/uploads/breed/thumb_siberian.png,True,Russia,17,25
+Singapura,11.0,15.0,4.0,7.0,5,2,4,4,4,4,5,4,https://dogell.b-cdn.net/uploads/breed/thumb_singapura.png,False,Singapore,9,11
+Snowshoe,14.0,19.0,7.0,12.0,5,3,5,5,5,5,5,4,https://dogell.b-cdn.net/uploads/breed/thumb_snowshoe.png,False,United States,17,26
+Sokoke,9.0,15.0,6.0,10.0,4,1,3,4,5,4,4,4,https://dogell.b-cdn.net/uploads/breed/thumb_sokoke.png,False,United States,14,15
+Somali,11.0,16.0,6.0,10.0,5,4,2,5,5,3,5,5,https://dogell.b-cdn.net/uploads/breed/thumb_somali.png,False,Somalia,11,14
+Sphynx,8.0,14.0,6.0,12.0,5,1,2,4,5,2,4,5,https://dogell.b-cdn.net/uploads/breed/thumb_sphynx.png,True,Canada,13,15
+Tonkinese,10.0,16.0,6.0,12.0,5,2,2,5,5,4,5,4,https://dogell.b-cdn.net/uploads/breed/thumb_tonkinese.png,False,Canada,12,15
+Toyger,10.0,15.0,7.0,15.0,5,1,3,4,4,4,4,4,https://dogell.b-cdn.net/uploads/breed/thumb_toyger.png,False,United States,15,16
+Turkish Angora,12.0,18.0,5.0,9.0,5,2,3,5,3,4,4,3,https://dogell.b-cdn.net/uploads/breed/thumb_turkish-angora.png,False,Turkey,14,17
+Turkish Van,12.0,17.0,10.0,18.0,3,2,4,4,3,4,5,3,https://dogell.b-cdn.net/uploads/breed/thumb_turkish-van.png,False,Turkey,14,17
+Ukrainian Levkoy,9.0,15.0,8.0,12.0,5,1,3,4,5,2,5,4,https://dogell.b-cdn.net/uploads/breed/thumb_ukrainian-levkoy.png,True,Ukraine,15,17
+York Chocolate,13.0,15.0,10.0,18.0,4,4,3,4,4,2,4,3,https://dogell.b-cdn.net/uploads/breed/thumb_york-chocolate.png,False,United States,21,22
