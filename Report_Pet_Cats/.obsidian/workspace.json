@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Report/Pet проект.md",
+                "file": "Report/Подготовка данных.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Report/Pet проект.md",
+                "file": "Report/Подготовка данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Report/Pet проект.md",
+                "file": "Report/Подготовка данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Report/Pet проект.md"
+                "file": "Report/Подготовка данных.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "65d438d74ed519fd",
   "lastOpenFiles": [
-    "Report/Подготовка данных.md",
     "Report/Pet проект.md",
+    "Report/Подготовка данных.md",
     "Сети Си.md",
     "Подготовка 28-01-2024.md",
     "Report/files/Pasted image 20231219132033.png",
